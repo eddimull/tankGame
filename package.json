@@ -1,0 +1,17 @@
+{
+  "name": "tankgame",
+  "version": "1.0.0",
+  "description": "HTML5 canvas based game",
+  "main": "app.js",
+  "dependencies": {
+    "createjs": "^0.0.0",
+    "ejs": "^2.5.2",
+    "socket.io": "^1.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EM",
+  "license": "ISC"
+}
