@@ -1,0 +1,76 @@
+{"frames": {
+
+"t1Body.png":
+{
+	"frame": {"x":1,"y":191,"w":33,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":62},
+	"sourceSize": {"w":33,"h":62}
+},
+"t1Turret.png":
+{
+	"frame": {"x":36,"y":195,"w":20,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":37},
+	"sourceSize": {"w":20,"h":37}
+},
+"t2Body.png":
+{
+	"frame": {"x":1,"y":64,"w":34,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":64},
+	"sourceSize": {"w":34,"h":64}
+},
+"t2Turret.png":
+{
+	"frame": {"x":37,"y":135,"w":25,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":58},
+	"sourceSize": {"w":25,"h":58}
+},
+"t3Body.png":
+{
+	"frame": {"x":1,"y":130,"w":34,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":59},
+	"sourceSize": {"w":34,"h":59}
+},
+"t3Turret.png":
+{
+	"frame": {"x":39,"y":1,"w":24,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":61},
+	"sourceSize": {"w":24,"h":61}
+},
+"t4Body.png":
+{
+	"frame": {"x":1,"y":1,"w":36,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":61},
+	"sourceSize": {"w":36,"h":61}
+},
+"t4Turret.png":
+{
+	"frame": {"x":37,"y":64,"w":25,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":69},
+	"sourceSize": {"w":25,"h":69}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "tanktiles.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":254},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c3be4cd617fbccf60e2c2e371305e599:92d2dde9f1762068a29cdafd61e55389:ef209895197c9c960b775c941a4e42aa$"
+}
+}
