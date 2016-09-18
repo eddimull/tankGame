@@ -6,6 +6,7 @@
   "dependencies": {
     "createjs": "^0.0.0",
     "ejs": "^2.5.2",
+    "pixi-tiled": "^1.2.1",
     "socket.io": "^1.4.8"
   },
   "devDependencies": {},

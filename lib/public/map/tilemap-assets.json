@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "generated": "1474175051197",
+        "version": "1.0",
+        "app": "gulp-phaser-tiled-pack",
+        "url": "https://github.com/englercj/gulp-phaser-tiled-pack"
+    },
+    "basic_desert": [
+        {
+            "type": "image",
+            "subtype": "tileset",
+            "key": "basic_desert_tileset_Desert",
+            "name": "Desert",
+            "url": "static/Tileset/14389890_10101464731169187_1920077060_n.jpg",
+            "overwrite": false
+        },
+        {
+            "type": "tiledmap",
+            "key": "basic_desert_tiledmap",
+            "url": "static/map/basic_desert.json",
+            "format": "TILED_JSON"
+        }
+    ]
+}

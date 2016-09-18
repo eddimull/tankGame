@@ -1,0 +1,15 @@
+{
+  "name": "phaser-tiled",
+  "homepage": "https://github.com/ilrein/phaser-tiled",
+  "version": "1.4.1",
+  "_release": "1.4.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.4.1",
+    "commit": "718ab2c250f7a8f0ecf641c806e8ee16ccf38f8e"
+  },
+  "_source": "https://github.com/ilrein/phaser-tiled.git",
+  "_target": "^1.4.1",
+  "_originalSource": "phaser-tiled",
+  "_direct": true
+}
